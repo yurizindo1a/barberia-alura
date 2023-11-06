@@ -1,20 +1,16 @@
 .principal {
-    background: #CCCCCC;
+    background: #cccccc;
     }
-    
-    h1 {
-    text-align: center;
+    hi {
+    text-align:center;
     }
-    
     h1 {
-    text-align: center;
-}
-    
+    text-align:center;
+    }
     #missao {
-    color: red;
+    color:rgb(16, 50, 241);
     font-size: 18px;
     }
-    
     #banner {
     width: 100%;
     }
@@ -22,12 +18,22 @@
     .beneficios-titulo {
     text-align: center;
     }
-    
-    .itens {
+    .itens{
     font-style: italic;
     }
-    
     .beneficios {
-    background: white;
+    background-color: white;
     }
+    
+    ul {
+    display: inline-block;
+    width: 20%;
+    vertical-align: top;
+    margin-right: 15%;
+    }
+    .beneficios-imagem {
+    width: 50%;
+    }
+    .titulo {
+    padding-left: 20px;
     }
